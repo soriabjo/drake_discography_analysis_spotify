@@ -80,4 +80,3 @@ def refresh_token():
 if __name__ == '__main__':
     print('starting script!')
     app.run(port=8888, debug=True)
-    print('testing')
