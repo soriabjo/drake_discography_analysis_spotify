@@ -59,7 +59,7 @@ Lets dig in!
 data.head()
 ```
 
-![Head](head.png)
+![Head](datahead.png)
 
 More features are not shown in this snapshot. Drake's album discography contains 14 albums, 243 songs with the final dataset containing 31 features - 
 
@@ -111,7 +111,7 @@ Summary Statistics -
 data.describe()
 ```
 
-![Describe](/describe.png)
+![Describe](/datadescribe.png)
 
 Now that the data has been introduced, let's investigate some questions regarding his catalog.
 
@@ -158,7 +158,7 @@ q3 = pysqldf("SELECT Album, [Song Name], MAX(Plays) AS Streams
                 ORDER BY MAX(Plays) DESC"
             )
 ```
-![Popular Song By Album](/top_tracks_by_album.png)
+![Popular Song By Album](/toptracksbyalbum.png)
 
 ## Analysis (Artists)
 
