@@ -59,7 +59,7 @@ Lets dig in!
 data.head()
 ```
 
-![Head](/screenshots/head.png)
+![Head](screenshots/head.png)
 
 More features are not shown in this snapshot. Drake's album discography contains 14 albums, 243 songs with the final dataset containing 31 features - 
 
@@ -111,7 +111,7 @@ Summary Statistics -
 data.describe()
 ```
 
-![Describe](/screenshots/describe.png)
+![Describe](screenshots/describe.png)
 
 Now that the data has been introduced, let's investigate some questions regarding his catalog.
 
@@ -129,8 +129,7 @@ Part of the reason why Drake has sustained mainstream status in the music indust
 
 However, it's worthy to note some of his worst peforming albums. His most recent albums, Her Loss and Honestly, Nevermind just released last year. It would be immature to take this graph at face value without understanding context. Give these albums time. Especially Her Loss, which is without a doubt been given positive feedback by most of his audience.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MS3MvWHJ3lOZPLiMxzOU6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe src="https://open.spotify.com/embed/album/5MS3MvWHJ3lOZPLiMxzOU6?utm_source=generator" width="600" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Speaking of popularity, what are his most popular songs?
 
@@ -160,7 +159,7 @@ q3 = pysqldf("SELECT Album, [Song Name], MAX(Plays) AS Streams
                 ORDER BY MAX(Plays) DESC"
             )
 ```
-![Popular Song By Album](/screenshots/top_tracks_by_album.png)
+![Popular Song By Album](screenshots/top_tracks_by_album.png)
 
 ## Analysis (Artists)
 
