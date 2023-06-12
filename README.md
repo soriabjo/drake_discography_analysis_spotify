@@ -59,7 +59,7 @@ Lets dig in!
 data.head()
 ```
 
-![Head](datahead.png)
+![head](/datahead.png)
 
 More features are not shown in this snapshot. Drake's album discography contains 14 albums, 243 songs with the final dataset containing 31 features - 
 
