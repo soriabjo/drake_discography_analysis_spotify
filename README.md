@@ -329,7 +329,7 @@ Most features showed weak correlation scores except 2: ```Danceability``` and ``
 
 Whether you're a fan of him or his music, you can't deny the his presence in pop culture among Millenials and Gen-Z. At 35, his music career may be coming to an end, but one can argue that he's cemented his spot in history as one of the most catchy artists to ever step into the studio.
 
-As for next steps of this project, I planned on developing personalized playlists for my Spotify account based on different Drake "moods". This would be achieved by using an unsupervised ML algorithm, KMeans clustering to group similar tracks together based on a given value of K. I then planned on using Spotify's API to create playlists based on the the clustering recommendation output.
+As for next steps of this project, I planned on developing personalized playlists for my Spotify account based on different Drake "moods". This would be achieved by using an unsupervised ML algorithm, KMeans clustering to group similar tracks together based on a given value of K. I then planned on using Spotify's API to create playlists based on the the clustering recommendation output. Depending on my mood, I can have a curated list of songs to listen to on the go.
 
 
 If you've read this far, I appreciate your time!
