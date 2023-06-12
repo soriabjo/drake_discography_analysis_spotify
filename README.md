@@ -215,16 +215,13 @@ q7
 
 Future and 21 Savage skew the data given that *What A Time To Be Alive (2015)* and *Her Loss (2022)* are collaboration albums between Drake and the respective rapper.
 
- As Drake was coming onto the scene during the late 2000's, Lil Wayne is often labeled as Drake's mentor. 
+ Next up is Lil Wayne (Weezy), often labeled as Drake's mentor as Drake was coming onto the scene during the late 2000's
 
 
-Drake said in *What's Next*: 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aQem4jVGdhtg116TmJnHz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Drake said in *What's Next (2021)*: 
 
-```"I'm movin' way too humble
+![Lyrics](whatsnextlyrics.png)
 
-Weezy had handed it off, I still got no fumbles"
-```
 
 Lil Wayne's end to his run in the rap scene concluded with the passing of the torch to hungry, humble Drake who was otherwise only known for his appearances in *Degrassi*.
 
